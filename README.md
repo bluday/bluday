@@ -2,16 +2,14 @@
 
 <img height="200" src="assets/headers/h2a_delta_halo_render.png"/>
 
-I am _BluDay_ (_Noah_). A skilled software engineer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta).
+I am _BluDay_ (_Noah_)—a software engineer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta).
 
-Proficient in C# and Python, with more than 12 years of experience in .NET development—specializing in desktop applications. I also have an extensive background in other programming languages, frameworks, and technologies.
+- 💻 Favorite language: C#
+- 📊 Proficiency of languages (in order): C#, Python, C, and Rust
+- 🛠️ Experience: 12+ years in .NET development, specializing in desktop applications
+- 📱 Fun fact: Was a **huge** user and fan of [_Windows Phone_](https://en.wikipedia.org/wiki/Windows_Phone) back when it was alive
 
-Currently working with WinUI 3 and WPF applications while learning Rust and GTK4.
-
-### Fun facts
-
-- Began coding at age 12.
-- Was a **huge** user and fan of [_Windows Phone_](https://en.wikipedia.org/wiki/Windows_Phone) back when it was alive.
+Currently focused on WinUI 3 and WPF development, while learning Rust and GTK4.
 
 ### Tech stack
 
