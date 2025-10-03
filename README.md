@@ -4,10 +4,10 @@
 
 I am _BluDay_ (_Noah_)—a software engineer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta).
 
-- 💻 Favorite language: C#
-- 📊 Proficiency of languages (in order): C#, Python, C, and Rust
-- 🛠️ Experience: 12+ years in .NET development, specializing in desktop applications
-- 📱 Fun fact: Was a **huge** user and fan of [_Windows Phone_](https://en.wikipedia.org/wiki/Windows_Phone) back when it was alive
+- Favorite language: C#
+- Proficiency of languages (in order): C#, Python, C, and Rust
+- Experience: 12+ years in .NET development, specializing in desktop applications
+- Fun fact: Was a **huge** user and fan of [_Windows Phone_](https://en.wikipedia.org/wiki/Windows_Phone) back when it was alive
 
 Currently focused on WinUI 3 and WPF development, while learning Rust and GTK4.
 
