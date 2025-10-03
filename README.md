@@ -1,6 +1,6 @@
 ## 🫐 Welcome to BluDay's [_Installation_](https://www.halopedia.org/Halo_Array) 🫐
 
-<img height="200" src="https://yt3.googleusercontent.com/LW-GGyQPnjxSkWDm-Wi1ktXiAU8h57Db_AGqN7LTqjVGKYEbZ0uBiwYv6QOj7h_jIpik6Zw0eQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
+<img height="200" src="assets/headers/h2a_delta_halo_render.png"/>
 
 I am _BluDay_ (_Noah_). A skilled software engineer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta).
 
@@ -12,18 +12,17 @@ Currently working with WinUI 3 and WPF applications while learning Rust and GTK4
 
 - Began coding at age 12.
 - Was a **huge** user and fan of [_Windows Phone_](https://en.wikipedia.org/wiki/Windows_Phone) back when it was alive.
-<!-- - Was capable of booting up an original Xbox and creating a custom _Halo: CE_ multiplayer game by myself at age 3. -->
 
 ### Tech stack
 
 <div align="left">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/arch-linux.png" alt="Arch Linux"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/windows-11.png" alt="Windows 11 logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C# logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt=".NET logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/rust-programming-language.png" alt="Rust logo"/>
+  <img width="48" height="48" src="assets/icons/arch-linux.png" alt="Arch Linux"/>
+  <img width="48" height="48" src="assets/icons/windows-11.png" alt="Windows 11 logo"/>
+  <img width="48" height="48" src="assets/icons/csharp.png" alt="C# logo"/>
+  <img width="48" height="48" src="assets/icons/dotnet.png" alt=".NET logo"/>
+  <img width="48" height="48" src="assets/icons/python.png" alt="Python logo"/>
+  <img width="48" height="48" src="assets/icons/c.png" alt="C logo"/>
+  <img width="48" height="48" src="assets/icons/rust.png" alt="Rust logo"/>
 </div>
 
 ### Contact info
