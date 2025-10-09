@@ -25,4 +25,4 @@ Currently focused on WinUI 3 and WPF development, while learning Rust and GTK4.
 
 ### Contact info
 
-[Email me.](mailto:bluday.subsystem284@passinbox.com)
+bluday.subsystem284@passinbox.com
