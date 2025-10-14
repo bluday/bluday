@@ -1,8 +1,8 @@
-## 🫐 Welcome to BluDay's [_Installation_](https://www.halopedia.org/Halo_Array) 🫐
+<!-- ## 🫐 Welcome to BluDay's [_Installation_](https://www.halopedia.org/Halo_Array) 🫐 -->
 
 <img height="200" src="assets/headers/h2a_delta_halo_render.png"/>
 
-I am _BluDay_ (_Noah_)—a software engineer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta).
+_BluDay_ (_Noah_) — Computer programmer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta).
 
 - Favorite language: C#
 - Preferred languages in order: C#, Python, Rust, C
