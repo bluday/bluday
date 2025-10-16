@@ -14,8 +14,10 @@ Currently focused on WinUI 3 and WPF development, while learning Rust and GTK4.
 ### Tech stack
 
 <div align="left">
+  <!--
   <img width="48" height="48" src="assets/icons/arch-linux.png" alt="Arch Linux"/>
   <img width="48" height="48" src="assets/icons/windows-11.png" alt="Windows 11 logo"/>
+  -->
   <img width="48" height="48" src="assets/icons/csharp.png" alt="C# logo"/>
   <img width="48" height="48" src="assets/icons/dotnet.png" alt=".NET logo"/>
   <img width="48" height="48" src="assets/icons/python.png" alt="Python logo"/>
