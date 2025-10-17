@@ -9,7 +9,7 @@ _BluDay_ (_Noah_) — Computer programmer and skateboarder from [_Älta_](https:
 - Experience: 12+ years in .NET development, specializing in desktop applications
 - Fun fact: Was obsessed with [_Windows Phone_](https://en.wikipedia.org/wiki/Windows_Phone)
 
-Currently focused on WinUI 3 and WPF development, while learning Rust and GTK4.
+Currently focused on WinUI 3 and WPF development, while learning Rust.
 
 ### Tech stack
 
