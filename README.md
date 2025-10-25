@@ -19,8 +19,10 @@ Currently focused on WinUI 3 and WPF development, while learning Rust.
   <img width="48" height="48" src="assets/icons/python.png" alt="Python logo"/>
   <img width="48" height="48" src="assets/icons/c.png" alt="C logo"/>
   <img width="48" height="48" src="assets/icons/rust.png" alt="Rust logo"/>
+  <!--
   <img width="48" height="48" src="assets/icons/arch-linux.png" alt="Arch Linux"/>
   <img width="48" height="48" src="assets/icons/windows-11.png" alt="Windows 11 logo"/>
+  -->
 </div>
 
 ### Contact info
