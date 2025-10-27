@@ -5,7 +5,6 @@
 _BluDay_ — Computer programmer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta).
 
 - Favorite language: C#
-- Proficiency of languages in order: C#, Python, Rust, C
 - Experience: 12+ years in .NET development, specializing in desktop applications
 - Fun fact: Played _Halo: Combat Evolved_ on the original _Xbox_ by myself as a 3 year old in 2002
 
