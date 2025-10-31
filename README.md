@@ -15,10 +15,10 @@ BluDay — a software engineer and lifelong skateboarder from [_Älta_](https://
 <div align="left">
   <img src="assets/icons/icons8-c-sharp-logo-96.png" alt="C#" width="40" height="40"/>
   <img src="assets/icons/icons8-.net-framework-96.png" alt=".NET" width="40" height="40"/>
-  <img src="assets/icons/icons8-python-96.png" alt="Python" width="40" height="40"/>
-  <img src="assets/icons/icons8-rust-programming-language-96.png" alt="Rust" width="40" height="40"/>
-  <img src="assets/icons/icons8-visual-studio-96.png" alt="Visual Studio" width="40" height="40"/>
   <img src="assets/icons/winui.png" alt="WinUI" width="40" height="40"/>
+  <img src="assets/icons/icons8-visual-studio-96.png" alt="Visual Studio" width="40" height="40"/>
+  <img src="assets/icons/icons8-rust-programming-language-96.png" alt="Rust" width="40" height="40"/>
+  <img src="assets/icons/icons8-python-96.png" alt="Python" width="40" height="40"/>
   <img src="assets/icons/icons8-windows-11-96.png" alt="Windows 11" width="40" height="40"/>
   <img src="assets/icons/icons8-linux-96.png" alt="Linux" width="40" height="40"/>
   <img src="assets/icons/icons8-android-96.png" alt="Android" width="40" height="40"/>
