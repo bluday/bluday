@@ -1,27 +1,29 @@
-<!-- ## 🫐 Welcome to BluDay's [_Installation_](https://www.halopedia.org/Halo_Array) 🫐 -->
+<!--
+## 🫐 Welcome to BluDay's [_Installation_](https://www.halopedia.org/Halo_Array) 🫐
 
 <img height="200" src="assets/headers/h2a_delta_halo_render.png"/>
+-->
 
-_BluDay_ — Computer programmer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta).
+BluDay — a software engineer and lifelong skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta).
 
-- Favorite programming language: C#
-- Experience: 12+ years in .NET development, specializing in desktop applications
-- Fun fact: Played _Halo: Combat Evolved_ on the original _Xbox_ by myself as a 3 year old in 2002
+- Favorite language: C#
+- Experience: 12+ years in .NET development with a focus on desktop applications
+- Fun fact: At age 3 in 2002, I often started up my original Xbox on my own to play _Halo: Combat Evolved_
 
 ### Tech stack
 
 <div align="left">
-  <img width="48" height="48" src="assets/icons/csharp.png" alt="C# logo"/>
-  <img width="48" height="48" src="assets/icons/dotnet.png" alt=".NET logo"/>
-  <img width="48" height="48" src="assets/icons/python.png" alt="Python logo"/>
-  <img width="48" height="48" src="assets/icons/c.png" alt="C logo"/>
-  <img width="48" height="48" src="assets/icons/rust.png" alt="Rust logo"/>
-  <!--
-  <img width="48" height="48" src="assets/icons/arch-linux.png" alt="Arch Linux"/>
-  <img width="48" height="48" src="assets/icons/windows-11.png" alt="Windows 11 logo"/>
-  -->
+  <img src="assets/icons/icons8-c-sharp-logo-96.png" alt="C#" width="40" height="40"/>
+  <img src="assets/icons/icons8-.net-framework-96.png" alt=".NET" width="40" height="40"/>
+  <img src="assets/icons/icons8-python-96.png" alt="Python" width="40" height="40"/>
+  <img src="assets/icons/icons8-rust-programming-language-96.png" alt="Rust" width="40" height="40"/>
+  <img src="assets/icons/icons8-visual-studio-96.png" alt="Visual Studio" width="40" height="40"/>
+  <img src="assets/icons/icons8-windows-11-96.png" alt="Windows 11" width="40" height="40"/>
+  <img src="assets/icons/icons8-linux-96.png" alt="Linux" width="40" height="40"/>
+  <img src="assets/icons/icons8-android-96.png" alt="Android" width="40" height="40"/>
 </div>
 
 ### Contact info
 
 bluday.subsystem284@passinbox.com
+
