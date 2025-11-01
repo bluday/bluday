@@ -1,7 +1,7 @@
 <!--
 ## 🫐 Welcome to BluDay's [_Installation_](https://www.halopedia.org/Halo_Array) 🫐
 
-<img height="200" src="assets/headers/h2a_delta_halo_render.png"/>
+<img height="200" src="assets/headers/h2a-delta-halo-header.png"/>
 -->
 
 BluDay — a software engineer and lifelong skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta).
@@ -13,12 +13,19 @@ BluDay — a software engineer and lifelong skateboarder from [_Älta_](https://
 ### Tech stack
 
 <div align="left">
+  <!-- Programming languages -->
   <img src="assets/icons/icons8-c-sharp-logo-96.png" alt="C#" width="40" height="40"/>
-  <img src="assets/icons/icons8-.net-framework-96.png" alt=".NET" width="40" height="40"/>
-  <img src="assets/icons/winui.png" alt="WinUI" width="40" height="40"/>
-  <img src="assets/icons/visual-studio-2022.png" alt="Visual Studio" width="40" height="40"/>
+  <img src="assets/icons/python.png" alt="Python" width="40" height="40"/>
   <img src="assets/icons/icons8-rust-programming-language-96.png" alt="Rust" width="40" height="40"/>
-  <img src="assets/icons/icons8-python-96.png" alt="Python" width="40" height="40"/>
+
+  <!-- Frameworks -->
+  <img src="assets/icons/dotnet.png" alt=".NET" width="40" height="40"/>
+  <img src="assets/icons/winui.png" alt="WinUI" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="assets/icons/visual-studio-2022.png" alt="Visual Studio" width="40" height="40"/>
+
+  <!-- Operating systems -->
   <img src="assets/icons/icons8-windows-11-96.png" alt="Windows 11" width="40" height="40"/>
   <img src="assets/icons/icons8-linux-96.png" alt="Linux" width="40" height="40"/>
   <img src="assets/icons/icons8-android-96.png" alt="Android" width="40" height="40"/>
