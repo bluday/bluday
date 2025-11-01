@@ -14,9 +14,9 @@ BluDay — a software engineer and lifelong skateboarder from [_Älta_](https://
 
 <div align="left">
   <!-- Programming languages -->
-  <img src="assets/icons/icons8-c-sharp-logo-96.png" alt="C#" width="40" height="40"/>
+  <img src="assets/icons/c-sharp.png" alt="C#" width="40" height="40"/>
   <img src="assets/icons/python.png" alt="Python" width="40" height="40"/>
-  <img src="assets/icons/icons8-rust-programming-language-96.png" alt="Rust" width="40" height="40"/>
+  <img src="assets/icons/rust.png" alt="Rust" width="40" height="40"/>
 
   <!-- Frameworks -->
   <img src="assets/icons/dotnet.png" alt=".NET" width="40" height="40"/>
@@ -26,7 +26,7 @@ BluDay — a software engineer and lifelong skateboarder from [_Älta_](https://
   <img src="assets/icons/visual-studio-2022.png" alt="Visual Studio" width="40" height="40"/>
 
   <!-- Operating systems -->
-  <img src="assets/icons/icons8-windows-11-96.png" alt="Windows 11" width="40" height="40"/>
+  <img src="assets/icons/windows-11.png" alt="Windows 11" width="40" height="40"/>
   <img src="assets/icons/linux.png" alt="Linux" width="40" height="40"/>
   <img src="assets/icons/android.png" alt="Android" width="40" height="40"/>
 </div>
