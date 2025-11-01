@@ -27,8 +27,8 @@ BluDay — a software engineer and lifelong skateboarder from [_Älta_](https://
 
   <!-- Operating systems -->
   <img src="assets/icons/icons8-windows-11-96.png" alt="Windows 11" width="40" height="40"/>
-  <img src="assets/icons/icons8-linux-96.png" alt="Linux" width="40" height="40"/>
-  <img src="assets/icons/icons8-android-96.png" alt="Android" width="40" height="40"/>
+  <img src="assets/icons/linux.png" alt="Linux" width="40" height="40"/>
+  <img src="assets/icons/android.png" alt="Android" width="40" height="40"/>
 </div>
 
 ### Contact info
