@@ -16,7 +16,7 @@ BluDay — a software engineer and lifelong skateboarder from [_Älta_](https://
   <!-- Programming languages -->
   <img src="assets/icons/c-sharp.png" alt="C#" width="40" height="40"/>
   <img src="assets/icons/python.png" alt="Python" width="40" height="40"/>
-  <img src="assets/icons/rust.png" alt="Rust" width="40" height="40"/>
+  <!--<img src="assets/icons/rust.png" alt="Rust" width="40" height="40"/>-->
 
   <!-- Frameworks -->
   <img src="assets/icons/dotnet.png" alt=".NET" width="40" height="40"/>
