@@ -13,22 +13,20 @@ BluDay — a software engineer and lifelong skateboarder from [_Älta_](https://
 ### Tech stack
 
 <div align="left">
-  <!-- Programming languages -->
-  <img src="assets/icons/c-sharp.png" alt="C#" width="40" height="40"/>
-  <img src="assets/icons/python.png" alt="Python" width="40" height="40"/>
-  <!--<img src="assets/icons/rust.png" alt="Rust" width="40" height="40"/>-->
-
-  <!-- Frameworks -->
-  <img src="assets/icons/dotnet.png" alt=".NET" width="40" height="40"/>
-  <img src="assets/icons/winui.png" alt="WinUI" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="assets/icons/visual-studio-2022.png" alt="Visual Studio" width="40" height="40"/>
-
-  <!-- Operating systems -->
-  <img src="assets/icons/windows-11.png" alt="Windows 11" width="40" height="40"/>
-  <img src="assets/icons/linux.png" alt="Linux" width="40" height="40"/>
-  <img src="assets/icons/android.png" alt="Android" width="40" height="40"/>
+    <!-- Programming languages -->
+    <img src="assets/icons/c-sharp.png" alt="C#" width="40" height="40"/>
+    <img src="assets/icons/python.png" alt="Python" width="40" height="40"/>
+    <img src="assets/icons/rust.png" alt="Rust" width="40" height="40"/>
+    <!-- Frameworks -->
+    <img src="assets/icons/dotnet.png" alt=".NET" width="40" height="40"/>
+    <img src="assets/icons/winui.png" alt="WinUI" width="40" height="40"/>
+    <!-- Tools -->
+    <img src="assets/icons/neovim.png" alt="Neovim" width="40" height="40"/>
+    <img src="assets/icons/visual-studio-2022.png" alt="Visual Studio" width="40" height="40"/>
+    <!-- Operating systems -->
+    <img src="assets/icons/windows-11.png" alt="Windows 11" width="40" height="40"/>
+    <img src="assets/icons/linux.png" alt="Linux" width="40" height="40"/>
+    <img src="assets/icons/android.png" alt="Android" width="40" height="40"/>
 </div>
 
 ### Contact info
