@@ -2,16 +2,14 @@
 
 <img height="200" src="assets/headers/h2a-delta-halo-header.png"/>
 
-Software engineer and lifelong skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta), with 12+ years of coding experience. Began coding at age 14.
+Software engineer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta) who began coding at age 14.
 
-- Call me BluDay or Noah
+- 12+ years of coding experience
 - Favorite language: C#
 - Current focus: desktop application development for Windows using WinUI 3 (Windows App SDK) and WPF
-- Former Windows Phone and UWP application developer
 - Fun fact: Used to play [_Halo: Combat Evolved_](https://en.wikipedia.org/wiki/Halo%3A_Combat_Evolved) at age 3 in 2002
 
-### Tech stack
-
+<!--
 <div align="left">
     <img src="assets/icons/c-sharp.png" alt="C#" width="40" height="40"/>
     <img src="assets/icons/python.png" alt="Python" width="40" height="40"/>
@@ -25,9 +23,6 @@ Software engineer and lifelong skateboarder from [_Älta_](https://en.wikipedia.
     <img src="assets/icons/linux.png" alt="Linux" width="40" height="40"/>
     <img src="assets/icons/android.png" alt="Android" width="40" height="40"/>
 </div>
+-->
 
-### Contact info
-
-<!-- [Contact me](mailto:bluday.subsystem284@passinbox.com) -->
-
-bluday.subsystem284@passinbox.com
+[Email me](mailto:bluday.subsystem284@passinbox.com)
