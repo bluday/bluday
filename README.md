@@ -2,9 +2,9 @@
 
 <img height="200" src="assets/headers/h2a-delta-halo-header.png"/>
 
-Software engineer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta) who began coding at age 14.
+Software engineer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta) with 12+ years of coding experience.
 
-- 12+ years of coding experience
+- Began coding at age 14
 - Favorite language: C#
 - Current focus: desktop application development for Windows using WinUI 3 (Windows App SDK) and WPF
 - Fun fact: Used to play [_Halo: Combat Evolved_](https://en.wikipedia.org/wiki/Halo%3A_Combat_Evolved) at age 3 in 2002
