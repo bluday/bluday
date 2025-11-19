@@ -1,6 +1,6 @@
 <!-- ## BluDay's [_Installation_](https://www.halopedia.org/Halo_Array) -->
 
-<!-- <img height="200" src="assets/headers/h2a-delta-halo-header.png"/> -->
+<img height="200" src="assets/headers/h2a-delta-halo-header.png"/>
 
 Software engineer and skateboarder from [_Älta_](https://en.wikipedia.org/wiki/%C3%84lta) with 12+ years of coding experience.
 
