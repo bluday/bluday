@@ -1,16 +1,21 @@
-<img height="200" src="assets/headers/h2a-delta-halo-header.png"/>
+<a href="https://youtube.com/watch?v=Ur11mO0XTos">
+  <img height="200" src="assets/headers/h2a-delta-halo-header.png"/>
+</a>
 
 Full-stack engineer from _Älta_ with 12+ years of personal development experience, specializing in desktop application development for both Windows and Linux.
 
-Preferred programming languages:
-* C#
-* Python
-* C/C++
-* Rust
+_I use Arch, btw._ 😇
 
 Current focus:
 * **WinUI 3** and **WPF** development using **.NET** and **C#**
-* **Android** development using **Jetpack Compose** and **Kotlin** 
+* **Android** development using **Jetpack Compose** and **Kotlin**
+
+Preferred programming languages:
+* **C#**
+* **Python**
+* **C**
+* **C++**
+* **Rust**
 
 <!--
 ![](https://custom-icon-badges.demolab.com/badge/C%23-333333?logo=cshrp&logoColor=fff&style=flat-square)
@@ -27,6 +32,6 @@ Current focus:
 ![](https://img.shields.io/badge/Android-333333?logo=android&logoColor=fff&style=flat-square)
 -->
 
-Reach out to me at bluday.subsystem284@passinbox.com.
+Reach out to me at: bluday.subsystem284@passinbox.com
 
-Feel free to support my work via [PayPal](https://paypal.me/noahblu117).
+[Feel free to support my work.](https://paypal.me/noahblu117)
