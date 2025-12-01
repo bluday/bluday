@@ -1,6 +1,6 @@
-<a href="https://youtube.com/watch?v=Ur11mO0XTos">
-  <img height="200" src="assets/headers/h2a-delta-halo-header.png"/>
-</a>
+<img height="200" src="assets/headers/h2a-delta-halo-header.png"/>
+
+<!-- https://youtube.com/watch?v=Ur11mO0XTos -->
 
 Full-stack engineer from _Älta_ with 12+ years of personal development experience, specializing in desktop application development for both Windows and Linux.
 
