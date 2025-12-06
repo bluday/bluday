@@ -1,4 +1,4 @@
-<img height="200" src="assets/headers/h2a-delta-halo-header.png"/>
+<!-- <img height="200" src="assets/headers/h2a-delta-halo-header.png"/> -->
 
 <!-- https://youtube.com/watch?v=Ur11mO0XTos -->
 
