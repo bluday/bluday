@@ -14,4 +14,4 @@ Current focus: **Windows** application development using **.NET** and **WinUI 3*
 
 Reach out to me at: bluday.subsystem284@passinbox.com.
 
-Completely optional, but any support via [PayPal](https://paypal.me/noahblu117) would be greatly appricated.
+Any donations via [PayPal](https://paypal.me/noahblu117) would be greatly appricated.
