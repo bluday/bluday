@@ -1,17 +1,11 @@
-<!-- ( 0 _ o ) -->
+Experienced full-stack developer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos) with 12+ years of experience, specializing in desktop application development for Windows. Began coding at age of 14.
 
-<!-- https://youtube.com/watch?v=Ur11mO0XTos -->
+_I use Arch, btw._
 
-Self-taught computer programmer from _Älta_ with 12 years of personal experience in software development, specializing in desktop application development for Windows.
+**C#**, **Python**, **C**, and **Rust** are my preferred programming languages, in that order.
 
-<!-- _I use Arch, btw._ -->
+Current focus:
+* **Windows** application development using **C# 14**, **.NET 10** and **WinUI 3**.
+* **Android** application development using **Kotlin** and **Jetpack Compose**
 
-Preferred programming languages: **C#**, **Python**, **C**, **Rust**.
-
-Current focus: **Windows** application development using **.NET** and **WinUI 3**.
-
-<!-- Favorite game: [Halo: The Master Chief Collection](https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/). -->
-
-Reach out to me at: bluday.subsystem284@passinbox.com.
-
-Any donations via [PayPal](https://paypal.me/noahblu117) would be greatly appricated.
+Any donations via [PayPal](https://paypal.me/noahblu117) would be greatly appreciated.
