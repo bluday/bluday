@@ -4,8 +4,10 @@
 
 Self-taught computer programmer from _Älta_ with 12+ years of experience. Began coding at age of 14.
 
+* Favorite programming languages: **C#**, **Python**, **C**, **Rust**.
+* Current focus:
+  - **Windows** app development using **C#/.NET**, **WinUI 3**, and **WPF**
+  - **Linux** app development using **GTK4** and **Rust**
+  - **Android** app development using **Jetpack Compose** and **Kotlin**
+
 _I use Arch, btw._
-
-Favorite programming languages: **C#**, **Python**, **C**.
-
-Any donations via [PayPal](https://paypal.me/noahblu117) would be greatly appreciated.
