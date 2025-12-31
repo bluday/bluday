@@ -4,7 +4,7 @@
 
 Computer programmer from _Älta_ with 12 years of experience. Began coding at age of 14, using C#.
 
-Favorite programming languages: **C#**, **Python**, **C**, **Rust**.
+Favorite programming languages: **C#**, **Rust**, **C**.
 
 Current focus:
 * **Windows** app development using **C# 14**, **.NET 10**, **WinUI 3**, and **WPF**
