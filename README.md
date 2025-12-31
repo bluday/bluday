@@ -2,7 +2,7 @@
 
 ### [Installation](https://www.halopedia.org/Installation_05) of [BluDay](https://youtube.com/watch?v=Ur11mO0XTos)
 
-Self-taught computer programmer from _Älta_ with 12+ years of experience. Began coding at age of 14.
+Computer programmer from _Älta_ with 12+ years of experience. Began coding at age of 14, using C#.
 
 Favorite programming languages: **C#**, **Python**, **C**, **Rust**.
 
