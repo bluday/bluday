@@ -1,14 +1,14 @@
 <!-- ( 0 _ o ) -->
 
-### [Installation](https://www.halopedia.org/Installation_05) of [BluDay](https://youtube.com/watch?v=Ur11mO0XTos)
+<img height="200" src="/h2a-delta-halo-header.png"/>
 
-Computer programmer from _Älta_ with 12 years of experience. Began coding at age of 14, using C#.
+### Installation of [BluDay](https://youtube.com/watch?v=Ur11mO0XTos)
 
-Favorite programming languages: **C#**, **Rust**, **C**.
+Programmer and skateboarder from _Älta_ with 12 years of experience in software development.
 
-Current focus:
-* **Windows** app development using **C# 14**, **.NET 10**, **WinUI 3**, and **WPF**
-* **Linux** app development using **GTK4** and **Rust**
-* **Android** app development using **Jetpack Compose** and **Kotlin**
+Began coding at age of 14 using C#.
+
+Preferred programming languages: **C#**, **C**, **Rust**.
 
 _I use Arch, btw._
+
