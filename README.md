@@ -10,3 +10,5 @@ Preferred programming languages: **C#**, **C**, **Rust**.
 
 _I use Arch, btw._
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C01RYUCN)
+
