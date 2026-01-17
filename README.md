@@ -4,7 +4,6 @@ Programmer and skateboarder from [_Älta_](https://youtube.com/watch?v=Ur11mO0XT
 
 Began coding at age of 14 using C#.
 
-Preferred environment: **C#**, **.NET**, and **Rust**.
+Preferred environment: **C#** and **.NET**.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bluday)
-
+[Buy me a coffee](https://buymeacoffee.com/bluday) or support me on [Ko-fi](https://ko-fi.com/bluday).
