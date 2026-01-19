@@ -8,4 +8,3 @@ Began coding at the age of 14 using C#.
 
 Preferred environment: **C#**, **.NET**, **Windows**, **Linux**.
 
-[Buy me a coffee](https://buymeacoffee.com/bluday) or support me on [Ko-fi](https://ko-fi.com/bluday).
