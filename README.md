@@ -1,8 +1,6 @@
-<!-- <img src="/h2a-delta-halo-header.png"/> -->
+<img src="/h2a-delta-halo-header.png"/>
 
-<!-- https://youtube.com/watch?v=Ur11mO0XTos -->
-
-Programmer and life-long skateboarder with 12 years of experience in software development.
+Programmer, life-long skateboarder and [_Halo_](https://youtube.com/watch?v=Ur11mO0XTos)-nerd with 12 years of experience in software development.
 
 Began coding at the age of 14 using C#.
 
