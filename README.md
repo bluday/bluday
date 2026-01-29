@@ -4,5 +4,3 @@ Programmer, life-long skateboarder and [_Halo_](https://youtube.com/watch?v=Ur11
 
 Began coding at the age of 14 using C#.
 
-Preferred environment: **C#**, **.NET**, **Windows**, **Linux**.
-
