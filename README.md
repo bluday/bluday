@@ -2,5 +2,6 @@
 
 Programmer, life-long skateboarder and [_Halo_](https://youtube.com/watch?v=Ur11mO0XTos)-nerd with 12 years of experience in software development.
 
-Began coding at the age of 14 using C#.
+Began coding at the age of 14 using **C#** and **.NET**.
 
+Current focus: **WinUI 3** and **Jetpack Compose**
