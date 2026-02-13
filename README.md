@@ -2,7 +2,7 @@
 
 <!-- https://youtube.com/watch?v=Ur11mO0XTos -->
 
-Programmer and skateboarder with 12 years of experience in software development.
+Programmer, skateboarder, and gamer with 12 years of experience in software development.
 
 Began coding at the age of 14 using **C#** and **.NET**.
 
