@@ -1,5 +1,4 @@
-<!-- <img src="/h2a-delta-halo-header.jpg"/> -->
-<img src="/night-blue-planet-header.jpg"/>
+<img src="/h2a-delta-halo-header.jpg"/>
 
 <!-- https://youtube.com/watch?v=Ur11mO0XTos -->
 
