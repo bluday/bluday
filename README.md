@@ -1,4 +1,4 @@
-<img src="/h2a-delta-halo-header.png"/>
+<!-- <img src="/h2a-delta-halo-header.png"/> -->
 
 Full-stack engineer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos). Began coding at the age of 14 using **C#**.
 
