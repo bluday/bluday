@@ -1,7 +1,7 @@
 <img src="/h2a-delta-halo-header.png"/>
 
-<!-- https://youtube.com/watch?v=Ur11mO0XTos -->
+Full-stack engineer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos). Began coding at the age of 14 using **C#**.
 
-Began coding at the age of 14 using C# and .NET. Love to skate and play Halo on my free time.
+Love to skate and play _Halo_ on my free time.
 
-Current focus: WinUI 3 and Jetpack Compose
+Current focus: **WinUI 3** and **Jetpack Compose**
