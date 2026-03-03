@@ -1,6 +1,6 @@
-<img src="/h2a-delta-halo-header.png"/>
-
 # Installation of BluDay
+
+<img src="/h2a-delta-halo-header.png"/>
 
 Full-stack developer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos) who began coding at the age of 14.
 
