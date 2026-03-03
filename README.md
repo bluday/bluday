@@ -1,7 +1,15 @@
-<!-- <img src="/h2a-delta-halo-header.png"/> -->
+<img src="/h2a-delta-halo-header.png"/>
 
-Full-stack engineer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos). Began coding at the age of 14 using **C#**.
+# Installation of BluDay
 
-Love to skate and play _Halo_ when I am not engineering stuff.
+Full-stack developer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos) who began coding at the age of 14.
 
-Current focus: **WinUI 3** and **Jetpack Compose**
+Love to skate and play _Halo_ on my free time. 🛹🎮
+
+Current focus: developing several desktop and mobile apps for Windows and Android.
+
+## ⚙️ Tech stack
+
+* C#, Python, Rust, Kotlin
+* .NET, WinUI, WPF, Blazor, Jetpack Compose
+* Git, Visual Studio, Vim, Bash, PowerShell
