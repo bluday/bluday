@@ -6,7 +6,7 @@ Full-stack developer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos) who
 
 Love to skate and play _Halo_ on my free time. 🛹🎮
 
-Current focus: developing several desktop and mobile apps for Windows and Android.
+Current focus: developing multiple apps for Windows and Android.
 
 ## ⚙️ Tech stack
 
