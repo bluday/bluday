@@ -1,10 +1,10 @@
 # Installation of BluDay
 
-<!-- <img src="/h2a-delta-halo-header.png"/> -->
+<img src="/assets/headers/halo-2-anniversary-delta-halo-header.png"/>
 
 Full-stack developer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos) who began coding at the age of 14.
 
-Love to skate and play _Halo_ on my free time. 🛹🎮
+Love to skate and play <img alt="Halo 2007 logo" height="12" src="/assets/logos/halo-2007-logo.png"/> on my free time. 🛹🎮
 
 Current focus: developing multiple apps for Windows and Android.
 
@@ -12,4 +12,4 @@ Current focus: developing multiple apps for Windows and Android.
 
 * C#, C, Rust, Kotlin, Python
 * .NET, WinUI, WPF, Blazor, Jetpack Compose
-* Git, Visual Studio, Vim, Bash, PowerShell
+* Bash, PowerShell, Visual Studio, Vim, Git
