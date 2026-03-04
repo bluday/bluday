@@ -10,6 +10,6 @@ Current focus: developing multiple apps for Windows and Android.
 
 ## ⚙️ Tech stack
 
-* C#, Python, Rust, Kotlin
+* C#, C, Rust, Kotlin, Python
 * .NET, WinUI, WPF, Blazor, Jetpack Compose
 * Git, Visual Studio, Vim, Bash, PowerShell
