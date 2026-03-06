@@ -1,4 +1,4 @@
-## Installation of BluDay
+<!-- ## Installation of BluDay -->
 
 <img src="/assets/headers/halo-2-anniversary-delta-halo-header.png"/>
 
