@@ -4,6 +4,8 @@ Software engineer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos). Self-
 
 Building modern native apps for Windows and Android.
 
+Preferred tech stack:
+
 * C#, C, Rust, Kotlin, Python
 * .NET, WinUI, WPF, Blazor, Jetpack Compose
 * Visual Studio, Vim, Bash, PowerShell, Git
