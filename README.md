@@ -6,6 +6,6 @@ Building modern native apps for Windows and Android.
 
 Preferred tech stack:
 
-* C#, C, Rust, Kotlin, Python
+* C#, C, Rust, Python
 * .NET, WinUI, WPF, Blazor, Jetpack Compose
 * Visual Studio, Vim, Bash, PowerShell, Git
