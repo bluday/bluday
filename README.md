@@ -1,11 +1,7 @@
 <!-- <img src="/assets/headers/halo-2-anniversary-delta-halo-header.png"/> -->
 
-Software engineer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos). Self-taught and started coding at age 14.
+Self-taught engineer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos). Started with C# at 14 chasing _Windows Phone 8.1_ dreams—now building apps with _**WinUI 3**_ and _**Jetpack Compose**_.
 
-Building modern native apps for Windows and Android.
-
-Preferred tech stack:
-
-* C#, C, Rust, Python
-* .NET, WinUI, Blazor, Jetpack Compose
-* Visual Studio, Vim, Bash, PowerShell, Git
+* C#, Python, Bash, PowerShell
+* WinUI 3, Jetpack Compose
+* Visual Studio, Vim, Git
