@@ -1,6 +1,6 @@
 <img src="/assets/headers/halo-2-anniversary-delta-halo-header.png"/>
 
-Self-taught engineer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos).
+Self-taught engineer, skateboarder, and gamer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos).
 
 Started with _C#_ at 14 chasing _Windows Phone 8.1_ dreams—now building desktop and mobile applications with _**WinUI 3**_ and _**Jetpack Compose**_.
 
