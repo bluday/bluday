@@ -2,4 +2,4 @@
 
 Software developer, skateboarder, and gamer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos).
 
-Started coding at 14, developing _Windows Phone 8_ applications using _C#_.
+Began coding at age 14 using _C#_.
