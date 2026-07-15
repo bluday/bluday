@@ -2,4 +2,4 @@
 
 Self-taught software engineer and skateboarder from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos).
 
-Main programming language: **C#**.
+I primarily use **C#** and **.NET**.
