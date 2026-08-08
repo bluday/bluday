@@ -4,3 +4,5 @@ Software engineer, skateboarder, and gamer from [_Älta_](https://youtube.com/wa
 
 Building things with **C#** and **.NET**.
 
+[∞ Infinity Day ∞](https://nationaldaycalendar.com/celebrations/international-infinity-day-august-8)
+
