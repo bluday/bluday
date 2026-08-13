@@ -2,4 +2,4 @@
 
 Software engineer, skateboarder, and gamer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos).
 
-Building things mostly with **C#** and **.NET**.
+Building things mostly with **C#**.
