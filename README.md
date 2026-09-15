@@ -4,4 +4,4 @@ Software developer from [_Älta_](https://youtube.com/watch?v=Ur11mO0XTos). Bega
 
 Currently focusing on building apps with _WinUI 3_ and _Jetpack Compose_.
 
-Love skateboarding on the weekends and playing _Halo MCC_ and _Halo Infinite_ multiplayer.
+Love to skateboard and play _Halo MCC_ and _Halo Infinite_ multiplayer.
