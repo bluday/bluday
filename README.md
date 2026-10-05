@@ -1,4 +1,4 @@
-<img src="/halo_2_anniversary_delta_halo_header.png"/>
+<img src="/halo_2_anniversary_delta_halo_header_0.png"/>
 
 Began coding at age 14.
 
