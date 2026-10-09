@@ -4,4 +4,4 @@ Began coding at age 14.
 
 Favorite programming language: _C#_.
 
-Currently focusing on building desktop and mobile apps using _WinUI 3_ and _Jetpack Compose_.
+Current focus: building _WinUI 3_ apps.
