@@ -1,7 +1,9 @@
 <img src="/halo_3_main_menu_background_header_0.png"/>
 
-Began coding at age 14.
+13 years of programming experience, with a continued focus on building software that is thoughtfully designed, reliable, and maintainable.
 
-Favorite programming language: _C#_.
+_**C#**_ is my primary language, and _**.NET**_ is where I do most of my work.
 
-Current focus: building _WinUI 3_ apps.
+Currently focused on _**WinUI 3**_ and modern Windows application development, combining solid engineering principles with native desktop experiences.
+
+Love to skate, play _Halo_, and code on my free time. 🛹🎮💻
