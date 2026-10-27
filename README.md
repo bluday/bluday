@@ -6,4 +6,4 @@ _**C#**_ is my primary language, and _**.NET**_ is where I do most of my work.
 
 Currently focused on _**WinUI 3**_ and modern Windows application development, combining solid engineering principles with native desktop experiences.
 
-Love to skate, play _Halo_, and code on my free time. 🛹🎮💻
+Love to skate, play _Halo_, and code on my free time.
