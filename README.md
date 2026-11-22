@@ -1,4 +1,4 @@
-<img src="./halo_2_anniversary_delta_halo_header_0.png"/>
+<img src="./animated_halo_header_0.gif"/>
 
 <!-- https://www.youtube.com/watch?v=Ur11mO0XTos -->
 
