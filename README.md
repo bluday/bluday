@@ -2,4 +2,4 @@
 
 Computer nerd and skateboarder. Began coding at age 14 using _**C#**_.
 
-I mostly develop desktop apps for _**Windows**_ using C# and _**.NET**_, but also love tinkering with _**Linux**_ and other technologies.
+I mostly develop desktop apps for _**Windows**_ using C# and _**.NET**_, but also tinker with _**Linux**_ and other technologies.
